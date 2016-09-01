@@ -17,6 +17,7 @@ $ cd vagrant_webserver
 ```
 $ vagrant up
 ```
-6. När servern har startat öppna http://localhost:8080
+6. När servern har startat öppna
+[http://localhost:8080](http://localhost:8080) 
 
 Inte nöjd med utseendet editera **index.html** och ladda om websidan
