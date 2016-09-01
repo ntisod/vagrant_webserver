@@ -5,11 +5,18 @@ Ett färdigt exempel på en weserver gjord efter [vagrant provisons](https://www
 1. Öppna en terminal
 2. Gå till din projektfolder
 3. Hämta hem dom här filerna med följande kommando
-   `$ git clone https://github.com/ntisod/vagrant_webserver.git`
+
+   ```bash
+   $ git clone https://github.com/ntisod/vagrant_webserver.git
+   ```
 4. Gå till den nyligen skapade katalogen vagrant_webserver
-`cd vagrant_webserver`
+```
+$ cd vagrant_webserver
+```
 5. Starta webservern med
-`vagrant up`
+```
+$ vagrant up
+```
 6. När servern har startat öppna http://localhost:8080
 
 Inte nöjd med utseendet editera **index.html** och ladda om websidan
